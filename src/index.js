@@ -1,3 +1,3 @@
-var asdfasdfasdf;
+var asdfasdfasdf = 'asdfasdfasdf';
 
 console.log(asdfasdfasdf);
